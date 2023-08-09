@@ -1,0 +1,7 @@
+# Ignore everything in the repository
+*
+
+# Except the .gitignore, .md, and _config.yml files
+!.gitignore
+!*.md
+!_config.yml
