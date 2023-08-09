@@ -1,3 +1,3 @@
 hello world
 
-peep [[newfile]]
+peep [newfile](newfile)
