@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Create new blog post",
+            "type": "shell",
+            "command": "touch blogs/$(date +\"%Y-%m-%d\").md",
+            "problemMatcher": []
+        }
+    ]
+}
