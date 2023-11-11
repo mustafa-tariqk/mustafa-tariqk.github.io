@@ -5,6 +5,10 @@
             "label": "Create new blog post",
             "type": "shell",
             "command": "touch blogs/$(date +\"%Y-%m-%d\").md",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
             "problemMatcher": []
         }
     ]
