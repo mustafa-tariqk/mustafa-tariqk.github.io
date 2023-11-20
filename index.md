@@ -1,4 +1,7 @@
 Despite the fact that this website and the repo I'm building this site on is public, this serves (for now) as a secret of the internet for me. I want to hold myself accountable.
 
+### [Now Instead of Later](blogs/2023-11-19.md)
+###### Nov 19 2023
+
 ### [Getting Started](blogs/2023-11-12.md)
 ###### Nov 12 2023
