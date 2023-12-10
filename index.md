@@ -1,6 +1,9 @@
 Despite the fact that this website and the repo I'm building this site on is public, this serves (for now) as a secret of the internet for me. I want to hold myself accountable.
 
-### [Rejection](blogs/2023-12-03)
+### [Hope for the Best](blogs/2023-12-10.md)
+###### Dec 10 2023
+
+### [Rejection](blogs/2023-12-03.md)
 ###### Dec 3 2023
 
 ### [The Will to Act](blogs/2023-11-26.md)
