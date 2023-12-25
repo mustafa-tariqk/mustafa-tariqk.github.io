@@ -1,5 +1,9 @@
 Despite the fact that this website and the repo I'm building this site on is public, this serves (for now) as a secret of the internet for me. I want to hold myself accountable.
 
+
+### [Am I Fucking Stupid or Something?](blogs/2023-12-24.md)
+###### Dec 24 2023
+
 ### [Queen's University](blogs/2023-12-17.md)
 ###### Dec 17 2023
 
