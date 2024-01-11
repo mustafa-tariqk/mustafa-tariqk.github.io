@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm just rambling
+I have to figure out how to put my [GitHub profile README](https://github.com/mustafa-tariqk/mustafa-tariqk) here.
