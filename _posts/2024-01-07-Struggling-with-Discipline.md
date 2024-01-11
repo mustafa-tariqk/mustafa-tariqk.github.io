@@ -12,7 +12,7 @@ Here's a new game plan.
 
 Set aside ~12 hours a day to focus on job hunting. Split into 1/3rds with each third focusing on projects/leetcode/networking. Something I thought that was fun was if I saw a really cool startup I could burn the project time on a feature I think would be cool for the company. Maybe that would help show some of my skills. For leetcode I'll just run 20 minutes of question and if I'm stuck look at the solution and implement, then put the question in a "do again later" pile. And for networking it's all cold approaches on LinkedIn and maybe some emails.
 
-During a conversation with a friend this week he brought up the idea of taking a break. I guess I never really thought of that as an option before. I'm someone who's always focused on the next thing and never really takes time to relax. This is probably not a good thing. Even on family vacations longer than a few days I start getting angsty and want to get back to work. 
+During a conversation with a friend this week he brought up the idea of taking a break. I guess I never really thought of that as an option before. I'm someone who's always focused on the next thing and never really takes time to relax. This is probably not a good thing. Even on family vacations longer than a few days I start getting angsty and want to get back to work.
 
 I think I know why, I'll talk about it here sometime, but this I feel can be damaging because I make things worse for my family/friends. Maybe taking a break would be a good idea, but I could only in good conscious do it after I get a job. Maybe I'll ask for a start date that's a month from whenever I hear the news that I got accepted. That would be some time to just wander and let my brain do random stuff for a while.
 

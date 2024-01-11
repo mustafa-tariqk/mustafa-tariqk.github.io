@@ -8,7 +8,7 @@ Oh man I almost missed this one haha. This week has been pretty intense. Took a 
 
 Going back to Kingston was nice. I love the air in that city. I don't think there's a better school in Canada if there was a vibe ranking. Buildings are all super pretty, great people. Missed that place. I'll be going back in around 2 weeks to get 2 exams done. Computer Vision and Ethics. After exams I'll sum up my experiences at Queen's.
 
-I wanted to talk a bit about rejection. I've been feeling it recently. I like completely embarassingly failed this technical interview with this AI 3D image modelling company. I want to have an excuse but man I think I just shat the bed. Pressure got to me. 
+I wanted to talk a bit about rejection. I've been feeling it recently. I like completely embarassingly failed this technical interview with this AI 3D image modelling company. I want to have an excuse but man I think I just shat the bed. Pressure got to me.
 
 So that rejection was rough even though I knew it was coming, but I think I'm better acclimated to it now. I've been doing this thing where in a Discord server with friends I send screenshots of every time I get rejected. That's been helping me and giving my friends some reassurance that getting rejected is alright. I've been getting a lot of Nos, and I think it's important that that happens.
 

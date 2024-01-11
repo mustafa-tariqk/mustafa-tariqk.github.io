@@ -8,7 +8,7 @@ This week was pretty uneventful. I often find myself saying "I'll do it tomorrow
 
 I'm not a complete slob though, I'm currently in my final* semester of school and I'm done damn near all of my assignments. Only have 1 left that is completely untouched (only becausse it isn't out yet). Other than that I am a killer when it comes to school assignments, I often get things done the day they are assigned. Only things I'm waiting on are group members to get their stuff done.
 
-There's also this club I'm in, Queen's TCF (The Citizens Foundation). We help raise funds for the larger TCF organization to go build schools and stuff in Pakistan. That's really low effort though, I'm filling out random forms to get a bunch of permissions. It's not really interesting and I feel like I'm wasting my time. People are cool though. Since I left university to go back home I don't really get to interact with anyone there. 
+There's also this club I'm in, Queen's TCF (The Citizens Foundation). We help raise funds for the larger TCF organization to go build schools and stuff in Pakistan. That's really low effort though, I'm filling out random forms to get a bunch of permissions. It's not really interesting and I feel like I'm wasting my time. People are cool though. Since I left university to go back home I don't really get to interact with anyone there.
 
 I'm thinking I'm gonna quit in like 2/3 weeks, just before exams hit and I know things are gonna be slow in terms of club events.
 
