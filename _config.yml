@@ -9,6 +9,8 @@ github_username:  mustafa-tariqk
 linkedin_username: mustafa-tariqk
 
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
