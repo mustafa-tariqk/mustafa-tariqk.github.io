@@ -2,14 +2,16 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Create new blog post",
+            "label": "bundle install and jekyll serve",
             "type": "shell",
-            "command": "touch blogs/$(date +\"%Y-%m-%d\").md",
+            "command": "eval \"$(rbenv init - zsh)\" && bundle install && bundle exec jekyll serve",
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
-            "problemMatcher": []
+            "presentation": {
+                "reveal": "always"
+            }
         }
     ]
 }

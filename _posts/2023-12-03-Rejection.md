@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Rejection"
+date:   2023-12-03
+categories: jekyll update
+---
 Oh man I almost missed this one haha. This week has been pretty intense. Took a bit of a break from all the job hunt stuff since I had a big presentation and a big test that needed to get done. Ended up presenting content I wasn't supposed to talk about at all because the person before me handed the slides off to me like 7 slides too early and finished the 1 hour test in 10 minutes. So overall it sums up to an average week.
 
 Going back to Kingston was nice. I love the air in that city. I don't think there's a better school in Canada if there was a vibe ranking. Buildings are all super pretty, great people. Missed that place. I'll be going back in around 2 weeks to get 2 exams done. Computer Vision and Ethics. After exams I'll sum up my experiences at Queen's.

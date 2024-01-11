@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Slow Weeks"
+date:   2023-12-31
+categories: jekyll update
+---
 I wish I had done more this week. I had a secret santa thing with friends, then a cabin trip with family. Both were really fun, but I'm feeling kinda guilty for not doing much. I guess the whole world comes to a bit of a standstill between christmas and new years.
 
 But then I started thinking that this may be important. I've had more time to think and talk with friends/family. You really can't be happy without them, and it's important to make sure you're a good friend and family member. 

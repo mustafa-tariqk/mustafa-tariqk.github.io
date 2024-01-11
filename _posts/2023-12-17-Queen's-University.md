@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Queen's University"
+date:   2023-12-17
+categories: jekyll update
+---
 More or less spent all of this week studying for an Exam this Friday. It went well, it's a good feeling when you do your best and know you couldn't have done better. I have another exam on Wednesday that I'm studying for now. Being that this is my last full time semester I wanted to talk about school a little bit. Specifically my time at university.
 
 I felt ashamed that I didn't get into my top choices when I applied to university. To the point that I was ashamed of telling people where I was going. In my head my excuse was always that the reason that I didn't get somewhere good was that I cheated on an English essay in grade 12 (I did, and I don't regret it, subject for another time) and that tanked my average. But the truth really is that I didn't really try all that hard.

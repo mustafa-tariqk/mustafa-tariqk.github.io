@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Hope for the Best"
+date:   2023-12-10
+categories: jekyll update
+---
 This week was a pretty medium amount of progress. I stopped networking/studying and pretty much went all in Monday - Wednesday on prepping for some interviews. After the final round Wednesday I was told that I'd hear back the next day. And it's Sunday now. So yeah, probably didn't get that job.
 
 Was kind of a morale killer, and so I got really lazy near end of week and have been slow to study for an exam I have the coming Friday. But this experience reminded me of a conversation I had with a friend when a video game was coming out. He said something along the lines of, "I always keep my expectations really low so that way if the game is anything I'm always happy with it."

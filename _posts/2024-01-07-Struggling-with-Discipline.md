@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Struggling with Discipline"
+date:   2024-01-07
+categories: jekyll update
+---
 Man what the fuck am I doing with my time. Not so say that things are being wasted but I feel like it isn't as effective as it should be. One nice thing I did this week was catch up with some friends I only see like every 6 months or so. But other than that what the hell. I didn't manage to get the capstone project complete.
 
 I should stop complaining, I really should. But man it sucks going to all of these companies and seeing that they are only hiring senior+ engineers. I think I'll need a different approach. The root of the problem I have right now I feel is not setting goals with concrete milestones and tasks. I'm just kinda walking through everything.

@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Getting Started"
+date:   2023-11-12
+categories: jekyll update
+---
 This week was pretty uneventful. I often find myself saying "I'll do it tomorrow." My Mom always said "Tomorrow never comes" when I was a kid but I never got but as I get older I get it more and more.
 
 I'm not a complete slob though, I'm currently in my final* semester of school and I'm done damn near all of my assignments. Only have 1 left that is completely untouched (only becausse it isn't out yet). Other than that I am a killer when it comes to school assignments, I often get things done the day they are assigned. Only things I'm waiting on are group members to get their stuff done.

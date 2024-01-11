@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "The Will to Act"
+date:   2023-11-26
+categories: jekyll update
+---
 Ra's al Ghul is having a sword battle with Bruce Wayne on a frozen lake. Ra's turns his back towards Bruce, "Your parents death was not your fault." Bruce charges at him and they have an exchange, Ra's catches Bruce and gets closer to him, "It was your fathers."
 
 Bruce charges again with a flurry of attacks and gets thrown onto the ice. "Anger does not change the fact that your father failed to act." Bruce finally replies to his taunts, "The man had a gun!" Ra's asks if that would have stopped Bruce. He gets up off the ice and begins another attack.
