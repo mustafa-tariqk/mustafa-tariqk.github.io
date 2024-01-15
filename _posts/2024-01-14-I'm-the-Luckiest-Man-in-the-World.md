@@ -8,7 +8,8 @@ categories: jekyll update
 Today was a pretty good week. I did not manage to do much work in terms of job
 hunting, but I put enough work in my capstone project to more or less screw off
 and do random stuff and really have it be on the backburner. It really isn't
-anything to worry about at all anymore.
+anything to worry about at all anymore. I'm still going to do what I said last
+week in terms of my master plan.
 
 Looking at my last couple blogs, I'm seeing a lot of complaining coming from
 me, compared to my optimism from where I started. I wanted to talk a bit about
