@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 permalink: /about/
 ---
 ## 👾 Software Engineer | Seeking New Grad SWE Roles
