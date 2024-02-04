@@ -12,4 +12,4 @@ echo "date:   $date" >>"_posts/$filename"
 echo "categories: jekyll update" >>"_posts/$filename"
 echo "---" >>"_posts/$filename"
 
-vim "$filename"
+nvim "_posts/$filename"
