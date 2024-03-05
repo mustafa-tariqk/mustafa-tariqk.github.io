@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"title"'
+title: 
 date: 
 categories: jekyll update
 ---
