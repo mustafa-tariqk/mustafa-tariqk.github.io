@@ -9,3 +9,5 @@ minima:
   skin: dark
 plugins:
   - jekyll-feed
+exclude:
+  - templates
