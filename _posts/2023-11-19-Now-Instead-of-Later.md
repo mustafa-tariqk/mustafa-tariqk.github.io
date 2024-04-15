@@ -4,7 +4,7 @@ title:  "Now Instead of Later"
 date:   2023-11-19
 categories: jekyll update
 ---
-To say things have completely changed would definately be a lie. It's weird how
+To say things have completely changed would definitely be a lie. It's weird how
 one can get started working nonstop on something but the results come later.
 Here I am leetcoding and networking daily but I won't reap any rewards until I
 hit a bunch of nos. I guess a pretty neat thing is someone only has to say yes
