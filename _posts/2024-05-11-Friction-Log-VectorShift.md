@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Friction Log VectorShift
-date:_2024-05-11
+date: 2024-05-11
 categories: jekyll update
 ---
 This'll be my first ever friction log. I'll be doing these for companies I've applied to/want to apply to. Tomorrow I'll be working on a project that I think will be a take home that the company may want to assign me. This is gonna happen every Saturday and Sunday until I land a job.
