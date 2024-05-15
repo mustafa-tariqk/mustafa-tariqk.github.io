@@ -1,0 +1,35 @@
+---
+layout: post
+title: Hello Geotab
+date: 2024-05-14
+categories: jekyll update
+---
+### 8:10PM
+I'm going to live blog my application to Geotab. I really like this company for a couple reasons: 
+1. Efficient transportation means a greener planet. Growing up in Kuwait where [climate change is hitting hard](https://youtu.be/UbYCEjbWBFs) this is something that's very important to me, and the opportunity to work on this is exciting.
+2. [Geotab just won it's 7th best managed companies award](https://www.geotab.com/press-release/2024-canada-best-managed-companies/) and the culture of trust, continuous learning and teamwork is something I strive for.
+3. Office in Oakville, I live here so it's awesome that I'd get to work in person not too far away.
+
+Given these 3 things, I don't want to just apply and leave things to chance. I'm going to work on a project based on the job description.
+
+### 8:27 PM
+I know 90% of what's on the job description. But I don't know C#, I'm going to learn it right now as I make a telematics data processor. It's going to be a simple console app in .NET Core that processes telematics data (e.g. vehicle location, speed, acceleration) and makes reports on performance metrics. I'm gonna have the job description out at all times to make sure I can fit stuff in that shows my competence.
+
+### 8:50PM
+Learnt a bit about C# from some reading, looks close enough to Java so this shouldn't be hard at all. I fear I may get tripped up in something simple though. We'll see, I have a project structure down. I need to create a csv schema for how example data will look like, generate a ton of test data, and then create a file to process all the data, storing it in what will probably be a list of objects.
+
+
+### 9:32PM
+I have an example csv schema, I'm working on storing incoming data effectively such that useful lookups can be made easily, and working on concurrency.
+
+### 10:41PM
+I have data being stored properly, I am going to move focus to generating reports now. Then adding concurrency, then testing + debugging.
+
+### 11:49PM
+Had to get my little brother from the train station, getting back at the reporter.
+
+## 1:29AM
+Concurrency implemented, I'm moving on to testing. Then I'll do a write up, and submit my application.
+
+## 2:23AM
+So many bugs.... I am complete however and will be doing a write up now.
