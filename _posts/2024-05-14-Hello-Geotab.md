@@ -20,6 +20,16 @@ Though there are areas for improvement, including enhancing error handling and t
 
 Reflecting on this experience, I've leveraged it to master C#. If given the opportunity to revisit this project, I'm confident it would reach even greater heights.
 
+**High Level Overview:**
+I read from a csv with artificial delay to simulate data streaming, then concurrently take any new lines given and process it into an effective data structure.
+
+A live terminal app is being shown while this is happening, users can exit or generate a report. If they generate a report this data structure is queried to generate some metrics about the fleet. If I were to redo this I'd make a couple changes: Metrics/reports would be generated live alongside all new data coming in no calculations wouldn't happen twice if reran, the data structure would look a little different, with a hash table with a couple tweaks:
+
+{vehicle_id: tree}
+
+tree would be a binary tree that contains log(n) lookup and log(n) insertion. As data being streamed in is not sorted by time, having this would increase efficiency, however lookups would get a little bit more expensive if you wanted a specific element in the middle. I think this is a worthy tradeoff.
+
+This tree would have timestamp as the value it's organized by, with all other values being a dictionary within each node.
 ## Rambling of a mad man:
 ### 8:27 PM
 I know 90% of what's on the job description. But I don't know C#, I'm going to learn it right now as I make a telematics data processor. It's going to be a simple console app in .NET Core that processes telematics data (e.g. vehicle location, speed, acceleration) and makes reports on performance metrics. I'm gonna have the job description out at all times to make sure I can fit stuff in that shows my competence.
