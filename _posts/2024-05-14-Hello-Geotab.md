@@ -16,7 +16,7 @@ In this take-home project, I've demonstrated the following:
 - Successfully passing all tests and delivering a fully functional solution
 - Implementing multithreading capabilities, showcasing advanced technical skills
 
-Though there are areas for improvement, including enhancing error handling and transitioning to AWS hosting, these points don't overshadow the impressive accomplishments. Additionally, while utilizing a CSV for data storage served the project's needs, integrating with Postgres would have elevated its robustness.
+Though there are areas for improvement, including enhancing error handling and transitioning to AWS hosting. Additionally, while utilizing a CSV for data storage served the project's needs, integrating with Postgres would have elevated its robustness.
 
 Reflecting on this experience, I've leveraged it to master C#. If given the opportunity to revisit this project, I'm confident it would reach even greater heights.
 
