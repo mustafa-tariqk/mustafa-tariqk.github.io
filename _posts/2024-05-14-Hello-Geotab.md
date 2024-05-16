@@ -12,6 +12,8 @@ I'm going to live blog my application to Geotab. I really like this company for 
 
 Given these 3 things, I don't want to just apply and leave things to chance. I'm going to work on a project based on the job description.
 # Write up
+Link: https://github.com/mustafa-tariqk/TelematicsDataProcessor
+
 In this take-home project, I've demonstrated the following:
 - Successfully passing all tests and delivering a fully functional solution
 - Implementing multithreading capabilities, showcasing advanced technical skills
