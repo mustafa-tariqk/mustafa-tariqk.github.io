@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>The Joy of Making Something Your Friends Use - Mustafa&#39;s Notes</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Making something that people actually use for the first time outside work/school." />
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://localhost:1313/posts/the-joy-of-making-something-your-friends-use/">
+  <meta property="og:site_name" content="Mustafa&#39;s Notes">
+  <meta property="og:title" content="The Joy of Making Something Your Friends Use">
+  <meta property="og:description" content="Making something that people actually use for the first time outside work/school.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-01-08T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-01-08T00:00:00+00:00">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="The Joy of Making Something Your Friends Use">
+  <meta name="twitter:description" content="Making something that people actually use for the first time outside work/school.">
+
+        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.e5be0b244cfea0385bf04425148e0847f227ebc587eb7cf8ce8e2532d66a9248.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.50b57e12d401420df23965fed157368aba37b76df0ecefd0b1ecd4da664f01a0.css"  disabled />
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://localhost:1313/">Mustafa&#39;s Notes</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a>
+		
+		<a href="/about">About</a>
+		
+		| <span id="dark-mode-toggle" onclick="toggleTheme()"><svg class="feather">
+   <use href="/svg/feather-sprite.51cf5647cb1987f769b616558f2620fd9423d72058490231b391bf6aa3744b55.svg#sun" />
+</svg></span>
+		<script src="http://localhost:1313/js/themetoggle.js"></script>
+		
+	</nav>
+</header>
+
+<main>
+  <article>
+    <div class="post-container">
+      
+      <div class="post-content">
+        <div class="title">
+          <h1 class="title">The Joy of Making Something Your Friends Use</h1>
+          <div class="meta">Posted on Jan 8, 2025</div>
+        </div>
+        
+        <section class="body">
+          <p>I just had my first taste of making something people other than me actually use outside of work or school. It&rsquo;s been really fun.</p>
+<h2 id="problem">Problem</h2>
+<p>Some friends from middle/high school and I have an inside joke of sorts where we give each other points if one does something the other considers &ldquo;foul.&rdquo; Typically, it goes like this: someone does something the other doesn&rsquo;t like, and the person who didn&rsquo;t like it says &ldquo;+1&rdquo; (or 2, or however many points they feel). They then elicit support from other friends, and like that, foul sport points are assigned.</p>
+<p>I&rsquo;m not quite sure how it started, but it&rsquo;s been around long enough that people had been discussing keeping track of these points. I remember once offhandedly mentioning that it would be cool if it was a Discord bot.</p>
+<p>I have a million ideas for things, but none of them really ever pan out. However, my friends kept bringing this thing up. I had zero expectations for it whatsoever and used it as an opportunity to learn Go.</p>
+<h2 id="product">Product</h2>
+<p>On a high level, this is what the bot does: it has commands where users can create polls against each other, mentioning how many points they should get. People vote on the poll, and 24 hours later, the result of the poll is shown to everyone. The user has gained however many points the poll specified, or nothing happened.</p>
+<p>Users can also run a leaderboard command that returns a top 10 list of all users ordered by who has the most points. This leaderboard is different year by year; whoever has the most points for any given year is titled foul sport of the year. We are in talks to have a punishment of some type.</p>
+<p>All of this is hosted on the Discord server&rsquo;s most active member.</p>
+<h2 id="outcomes">Outcomes</h2>
+<p>People actually use this bot. I guess because the action of accusing someone as foul is already so prevalent, this is just an outlet for people to express that more effectively.</p>
+<p>There are maybe 10 people who are active in the server (out of maybe 20 who are in it). Sixteen people have cast votes, nine create polls, 17 people have gained points, and over 100 polls have been created since the start of December.</p>
+<p>People ask me for features and bring up ideas for how the bot could work. I respond; it&rsquo;s a really fun cycle. As the creator, I want to maximize usage of the bot as much as possible. But as a friend, there have been cases where people use this thing really seriously, and division and conflict are created. It has been difficult finding the right balance.</p>
+<p>Something relatively frustrating that was brought up was that people made this whole thing about wanting votes to be anonymous. This required a big departure from the way I used to do things, and when it came out and people started using it, damn near everyone said they wanted anonymity gone.</p>
+<p>I had heard the Ford quote hundreds of times about &ldquo;If I had asked people what they wanted, they would have said faster horses.&rdquo; This was my first time experiencing it.</p>
+<p>What people ask for in a product may not be what they actually want. More effort should be put into finding what the actual problem is. In this case, it was having people speak their minds while also being held accountable for their actions. If a user just upvotes every poll, that isn&rsquo;t desired. But they shouldn&rsquo;t vote against their belief either. I found a middle ground by hiding votes until after polls expire and only showing them randomly.</p>
+<h2 id="conclusions">Conclusions</h2>
+<p>I think this has been a pretty huge learning experience for me. First off, I absolutely adore Go as a language. Secondly, building products is really fun, especially when people use them.
+There&rsquo;s something special about building software just for friends and just for an extreme niche use case. I&rsquo;m excited for a future when making things like this isn&rsquo;t limited to just people who know how to code.</p>
+<p>I have zero plans to scale this past my friend group. But I don&rsquo;t expect to work on it as much as I have in the past. This thing appears to have hit a market saturation of sorts.</p>
+<p>Here&rsquo;s the repo if you want to check it out: <a href="https://github.com/mustafa-tariqk/foulbot">https://github.com/mustafa-tariqk/foulbot</a></p>
+
+        </section>
+        <div class="post-tags">
+          
+          
+          
+        </div>
+      </div>
+
+      
+      
+    </div>
+
+    </article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/mustafa-tariqk" rel="me" title="GitHub"><svg class="feather">
+   <use href="/svg/feather-sprite.51cf5647cb1987f769b616558f2620fd9423d72058490231b391bf6aa3744b55.svg#github" />
+</svg></a><a class="border"></a><a class="soc" href="https://twitter.com/mustafa_tariqk" rel="me" title="Twitter"><svg class="feather">
+   <use href="/svg/feather-sprite.51cf5647cb1987f769b616558f2620fd9423d72058490231b391bf6aa3744b55.svg#twitter" />
+</svg></a><a class="border"></a></div>
+  <div class="footer-info">
+    2025  <a
+      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+  </div>
+</footer>
+
+</div>
+    </body>
+</html>

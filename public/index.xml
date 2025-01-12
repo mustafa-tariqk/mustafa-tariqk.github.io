@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustafa&#39;s Notes</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mustafa&#39;s Notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Joy of Making Something Your Friends Use</title>
+      <link>http://localhost:1313/posts/the-joy-of-making-something-your-friends-use/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-joy-of-making-something-your-friends-use/</guid>
+      <description>&lt;p&gt;I just had my first taste of making something people other than me actually use outside of work or school. It&amp;rsquo;s been really fun.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;p&gt;Some friends from middle/high school and I have an inside joke of sorts where we give each other points if one does something the other considers &amp;ldquo;foul.&amp;rdquo; Typically, it goes like this: someone does something the other doesn&amp;rsquo;t like, and the person who didn&amp;rsquo;t like it says &amp;ldquo;+1&amp;rdquo; (or 2, or however many points they feel). They then elicit support from other friends, and like that, foul sport points are assigned.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Mustafa, I&amp;rsquo;m a software engineer at HubSpot.&lt;/p&gt;&#xA;&lt;p&gt;I graduated with a Bachelor of Computing (Honors) from Queen&amp;rsquo;s University in Canada. During my studies I TA&amp;rsquo;d for Discrete Mathematics and Introduction to CS. One summer I interned for CIBC, a bank.&lt;/p&gt;&#xA;&lt;p&gt;Outside of work, I&amp;rsquo;m really into MMA and cooking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Used to Pray for What I Have Right Now</title>
+      <link>http://localhost:1313/posts/i-used-to-pray-for-what-i-have-right-now/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/i-used-to-pray-for-what-i-have-right-now/</guid>
+      <description>&lt;p&gt;Took me long enough :)&lt;/p&gt;&#xA;&lt;p&gt;As of October 1st 2024 I work on the backend team of this &lt;a href=&#34;https://www.hubspot.com/products/artificial-intelligence/intent&#34;&gt;product&lt;/a&gt; at HubSpot. Oh, I also moved to San Francisco. I live in a little studio in West SOMA.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-i-got-the-job&#34;&gt;How I Got the Job&lt;/h2&gt;&#xA;&lt;p&gt;One interesting note is I knew no one at the company. I didn&amp;rsquo;t send a LinkedIn message to a recruiter or anything. Complete cold apply.&lt;/p&gt;&#xA;&lt;p&gt;The interview process was more or less like any other. Started in early August, 3 hour OA, 30 minute behevioural, 2 hour leetcode + sys design. I thought I bombed the OA. But then I got the recruiter call which I prepared for like hell. I killed it and got told I&amp;rsquo;d be moving to next steps within like 30 minutes of finishing the interview.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+baseURL = 'https://mustafatariqk.com'
+languageCode = 'en-us'
+title = "Mustafa's Notes"
+theme = "archie"
+
+[params]
+mode = "toggle" # color-mode → light,dark,toggle or auto
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/mustafa-tariqk"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/mustafa_tariqk"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
