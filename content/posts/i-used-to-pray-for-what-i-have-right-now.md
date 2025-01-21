@@ -25,7 +25,7 @@ For leetcode + system design + behavioural prep just read the [tech interview ha
 
 One thing that I dragged myself through which I don't recommend and will never do again in my life was basically beg for referrals on LinkedIn. I'd message engineering managers/sr swes who worked at companies that had postings in the past 24 hours and message at least 10 who worked at the company point blank asking for a referral.
 
-Seriously demoralizing and soul sucking stuff I had some template where I'd highlight why I was a good fit and at the end write something along the lines of "any chance I could get some feedback on my resume or possibly a referral?"
+Seriously demoralizing and soul sucking stuff. I had some template where I'd highlight why I was a good fit and at the end write something along the lines of "any chance I could get some feedback on my resume or possibly a referral?"
 
 This sucks, maybe it works but seriously I don't want to get an interview because some random person that I spammed gave in. I want the interview because someone I know sees me as good enough for the job.
 
@@ -33,7 +33,7 @@ I might even delete my LinkedIn profile. But for now I basically made it as empt
 
 ## What's Next?
 
-For so long this blog was about getting a job. I gave up because I was like so depressed that nothing was changing week to week and wanted to have this blog be more about results. I guess this is a big result.
+For so long this blog was about getting a job. I gave up because I was so depressed that nothing was changing week to week and wanted to have this blog be more about results. I guess this is a big result.
 
 I want to talk about more technical content moving forward. Random projects, maybe some stuff from work. I'm excited to write about something in a while reflecting joining a new company and trying to become a productive member of a team.
 
