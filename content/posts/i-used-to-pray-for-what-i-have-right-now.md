@@ -51,4 +51,4 @@ To sum it up I'm just happy to be here right now. Excited about the future of co
 
 ## EDIT
 
-I deleted all of my old posts, they were kind of super depressing and not really high effort. If you really want to read them go to the commit history of [this](<(https://github.com/mustafa-tariqk/mustafa-tariqk.github.io/tree/cd8fe4a3cdfb10c62f4b27f33ff60a4de5d15b80)>) repo
+I deleted all of my old posts, they were kind of super depressing and not really high effort. If you really want to read them go to the commit history of [this](https://github.com/mustafa-tariqk/mustafa-tariqk.github.io/tree/cd8fe4a3cdfb10c62f4b27f33ff60a4de5d15b80/_posts) repo
