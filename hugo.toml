@@ -6,3 +6,7 @@ author = "Mustafa Tariq"
 languageCode = "en-US"
 
 enableRobotsTXT = true
+
+[params]
+hideMadeWithLine = true
+enablePostNavigator = true
