@@ -1,6 +1,7 @@
 +++
-title = "About Me"
-date = '2025-01-01'
+title = "Home"
+menu = "main"
+weight = 1
 +++
 
 Hi! I'm Mustafa, I'm a software engineer at HubSpot.
