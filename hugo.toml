@@ -1,5 +1,5 @@
 baseURL = 'https://mustafatariqk.com'
-theme = "hugo-bearblog"
+theme = ["github.com/janraasch/hugo-bearblog"]
 
 title = "Mustafa's Notes"
 author = "Mustafa Tariq"
